@@ -1,1 +1,1 @@
-C# App project, refreshing concepts. :)
+A game project using WPF, refreshing concepts. :)
